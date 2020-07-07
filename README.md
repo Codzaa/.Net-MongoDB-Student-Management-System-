@@ -2,7 +2,7 @@
 
 Simple Console Application for Student Management System
 
-#INSTRUCTIONS
+# INSTRUCTIONS
 1.Install Visual Studio 2019
 2.Install MongoDB and MongoDB Compass(Optional)  https://www.mongodb.com/
 3.Open/Run MongoDB
