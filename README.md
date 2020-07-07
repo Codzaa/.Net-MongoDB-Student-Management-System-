@@ -14,9 +14,11 @@ Simple Console Application for Student Management System
 # Running the Program
 
 1. Open **Student.sln** using Visual Studio.
+2. On the toolbar go to Project -> Manage NuGet Packages. Search for mongodb driver & Download and install the **Official .Net driver for MongoDB**.
 2. Build and Run the Project.
 3. If Program Runs Successfully refreash the MongoDB interface and you should see a new Database created there called **StudentDatabase**.
 
 # IMPORTANT!
 1. **Username** for Teachers/Administrator Panel is **"admin"** and **password** is **"pass"**.
 2. **Username** for Student Panel is the **first name** of any student in the Database and **password** is the **last name** of the student.
+3. These things can be changed in the code.
